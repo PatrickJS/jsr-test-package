@@ -1,3 +1,3 @@
 export default function main() {
-  console.log("Hello, world!");
+  console.log("jsr-test-package!");
 }
