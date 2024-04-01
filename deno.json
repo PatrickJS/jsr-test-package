@@ -1,7 +1,5 @@
 {
   "name": "@patrickjs/test-package",
-  "version": "0.0.5",
-  "exports": "./index.ts",
   "publish": {
     "include": [
       "LICENSE",
@@ -10,5 +8,7 @@
       "src/**/*.tsx",
       "src/**/*.ts"
     ]
-  }
+  },
+  "exports": "./index.ts",
+  "version": "0.0.6"
 }
