@@ -1,8 +1,14 @@
 {
   "name": "@patrickjs/test-package",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "exports": "./index.ts",
-  "excludes": [
-    ".github"
-  ]
+  "publish": {
+    "include": [
+      "LICENSE",
+      "README.md",
+      "index.ts",
+      "src/**/*.tsx",
+      "src/**/*.ts"
+    ]
+  }
 }
