@@ -1,5 +1,5 @@
 {
   "name": "@patrickjs/test-package",
-  "version": "0.0.2",
-  "exports": "./main.ts"
+  "version": "0.0.3",
+  "exports": "./index.ts"
 }
