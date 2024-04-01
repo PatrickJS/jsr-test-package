@@ -5,6 +5,7 @@
       "LICENSE",
       "README.md",
       "index.ts",
+      "jsr.json",
       "src/**/*.tsx",
       "src/**/*.ts"
     ]
